@@ -20,3 +20,5 @@ console.log(typeof Name);
 console.log(typeof null);         // outout object
 
 console.log(typeof undefined);   // outputs undefined
+
+// c
