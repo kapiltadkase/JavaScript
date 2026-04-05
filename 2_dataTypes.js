@@ -14,11 +14,9 @@ let Name = "kapil";
 // undefined => no value
 // symbol => for unqiueness
 // object =>  user defined
-
+console.log(typeof a);
 console.log(typeof Name);
 
 console.log(typeof null);         // outout object
 
 console.log(typeof undefined);   // outputs undefined
-
-// c
